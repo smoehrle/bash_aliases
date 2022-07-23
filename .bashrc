@@ -1,4 +1,4 @@
-# Minimum bashrc whic includes bash_aliases. Use if none is present
+# Minimum bashrc which includes bash_aliases. Use if none is present
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
